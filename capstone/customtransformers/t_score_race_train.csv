@@ -1,0 +1,135 @@
+Department Name,Race_Ethnicity,t_score
+Bethel,B,0.14313725490196083
+Bethel,H,0.1470588235294118
+Bethel,W,0.0
+Bloomfield,B,0.19202488687782815
+Bloomfield,H,0.2686274509803922
+Bloomfield,O,0.0
+Bloomfield,W,0.0
+Brookfield,B,0.0
+Brookfield,H,0.17906976744186054
+Brookfield,O,0.0
+Brookfield,W,0.0
+CSP Troop C,B,0.0
+CSP Troop C,H,0.12081128747795411
+CSP Troop C,O,0.0
+CSP Troop C,W,0.17930816865854138
+CSP Troop D,B,0.0
+CSP Troop D,H,0.17056737588652476
+CSP Troop D,O,0.0
+CSP Troop D,W,0.0
+CSP Troop F,B,0.0
+CSP Troop F,H,0.1601851851851852
+CSP Troop F,O,0.0
+CSP Troop F,W,0.029524807826694643
+Cheshire,B,0.17360114777618363
+Cheshire,H,0.3053658536585365
+Cheshire,W,0.0
+East Hartford,B,0.09010718632621811
+East Hartford,H,0.1603680150125104
+East Hartford,O,0.0
+East Hartford,W,0.0
+Glastonbury,B,0.16124469589816126
+Glastonbury,H,0.18881361820392562
+Glastonbury,W,0.0
+Greenwich,B,0.23428571428571432
+Greenwich,H,0.0
+Greenwich,O,0.0
+Greenwich,W,0.2142857142857143
+Groton City,B,0.16633819471817102
+Groton City,H,0.28666175386882825
+Groton City,W,0.0
+Hartford,B,0.19275362318840572
+Hartford,H,0.04042553191489362
+Hartford,W,0.0
+Milford,B,0.16712091715336364
+Milford,H,0.0
+Milford,O,0.0
+Milford,W,0.034782608695652195
+Naugatuck,B,0.19791281178299164
+Naugatuck,H,0.08758342259207386
+Naugatuck,O,0.0
+Naugatuck,W,0.0
+New Britain,B,0.13540765102994634
+New Britain,H,0.06701751890572039
+New Britain,O,0.0
+New Britain,W,0.0
+New Haven,B,0.0874322414629517
+New Haven,H,0.0
+New Haven,O,0.23791208791208796
+New Haven,W,0.0451489300173511
+Newington,B,0.15228705835251727
+Newington,H,0.09384174233631459
+Newington,O,0.0
+Newington,W,0.0
+North Haven,B,0.11835748792270528
+North Haven,H,0.0
+North Haven,W,0.0
+Old Saybrook,B,0.10548337370623218
+Old Saybrook,H,0.24718377856453172
+Old Saybrook,O,0.0
+Old Saybrook,W,0.0
+Plainville,B,0.17318342003691894
+Plainville,H,0.0
+Plainville,W,0.03614877616793932
+Rocky Hill,B,0.0
+Rocky Hill,H,0.20588235294117646
+Rocky Hill,O,0.0
+Rocky Hill,W,0.02316176470588238
+SCSU,B,0.14903846153846156
+SCSU,H,0.0
+SCSU,O,0.0
+SCSU,W,0.0
+Stamford,B,0.2903225806451613
+Stamford,H,0.0
+Stamford,W,0.2011385199240987
+State Police,B,0.11687370418010212
+State Police,H,0.042032328660633556
+State Police,O,0.0
+State Police,W,0.0
+Torrington,B,0.03498349834983505
+Torrington,H,0.138905066977286
+Torrington,O,0.0
+Torrington,W,0.0
+UCONN,B,0.0
+UCONN,H,0.10731707317073169
+UCONN,O,0.0
+UCONN,W,0.05453929539295388
+Vernon,B,0.09644857058650158
+Vernon,H,0.10266457680250785
+Vernon,O,0.0
+Vernon,W,0.0
+Wallingford,B,0.0
+Wallingford,H,0.112458870841385
+Wallingford,O,0.0
+Wallingford,W,0.0
+Waterbury,B,0.1148923201950427
+Waterbury,H,0.16193809874723653
+Waterbury,W,0.0
+Waterford,B,0.10743243243243245
+Waterford,H,0.08068824638592081
+Waterford,O,0.0
+Waterford,W,0.0
+West Hartford,B,0.1548929357614568
+West Hartford,H,0.14560501006486237
+West Hartford,O,0.0
+West Hartford,W,0.0
+Westport,B,0.17877984084880633
+Westport,H,0.03931623931623929
+Westport,O,0.0
+Westport,W,0.0
+Wethersfield,B,0.12191566892243622
+Wethersfield,H,0.0907065784893839
+Wethersfield,O,0.0
+Wethersfield,W,0.0
+Willimantic,B,0.10726817042606523
+Willimantic,H,0.15238095238095245
+Willimantic,O,0.0
+Willimantic,W,0.0
+Windsor Locks,B,0.29166666666666663
+Windsor Locks,H,0.0
+Windsor Locks,W,0.0
+Yale,B,0.11359761295822679
+Yale,H,0.0
+Yale,O,0.0
+Yale,W,0.031217750257998
