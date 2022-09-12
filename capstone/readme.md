@@ -1,6 +1,6 @@
 # Capstone 
 
-This folder is my solution to the final project of Lisbon Data Science Academy. The project consited in a Client Briefing, in which the client's requirements were detailed, and then I did the whole EDA, modeling, and deployment to heroku (when it was free). In the end, the api I created was tested by the instructors and a report was written to explain my findings and my solutions.
+This folder is my solution to the final project of Lisbon Data Science Academy. The project consisted in a Client Briefing, in which the client's requirements were detailed, and then I did the whole EDA, modeling, and deployment to heroku (when it was free). In the end, the api I created was tested by the instructors and a report was written (the pdf in this directory) to explain my findings and my solutions.
 
 ## Client Briefing  
 As a near-graduate of the Academy, you have been hired by the consultancy Awkward Problem Solutions™, that solves the tough data science problems that no one else will touch. 
